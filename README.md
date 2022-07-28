@@ -7,3 +7,6 @@ Another improved description of Airplane Feature
 
 # Part1: New Feature of the project
 This is a change made for new-feature 
+
+# Part2: New feature UX 
+UX for the app
